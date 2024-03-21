@@ -101,8 +101,7 @@ const manifest = {
     "deco-sites/themes3/sections/Miscellaneous/CookieConsent.tsx": $$$$$$$32,
     "deco-sites/themes3/sections/Miscellaneous/Slide.tsx": $$$$$$$33,
     "deco-sites/themes3/sections/Newsletter/Newsletter.tsx": $$$$$$$34,
-    "deco-sites/themes3/sections/Product/ImageGalleryFrontBack.tsx":
-      $$$$$$$35,
+    "deco-sites/themes3/sections/Product/ImageGalleryFrontBack.tsx": $$$$$$$35,
     "deco-sites/themes3/sections/Product/NotFound.tsx": $$$$$$$36,
     "deco-sites/themes3/sections/Product/NotFoundChallenge.tsx": $$$$$$$37,
     "deco-sites/themes3/sections/Product/ProductDetails.tsx": $$$$$$$38,
